@@ -6,7 +6,7 @@ Functions that;
 
 - divide two given numbers
 - Capitalize all first chars in a sentence ( PascalCase )
-- Return headers of top posted user based on posts from an API
+- Return titles of top posted user based on posts from an API
 
 In addition create tests for each function
 
